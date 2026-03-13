@@ -24,13 +24,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yadieltavarezd2&layout=compact&langs_count=8&card_width=320" />
 </a>
     </td>
-    <td>
-      <img 
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVoZTlxbmY1bDNseDU3ZzJubmRybGx6Nno3am12OTRvbDExeTV4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" 
-        alt="GIF animado" 
-        width="170"
-      >
-    </td>
   </tr>
 </table>
 
