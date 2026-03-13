@@ -14,14 +14,14 @@
   <tr>
 <td>
       <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yadieltavarezd2&include_all_commits=true&count_private=true&show_icons=true" 
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yadieltavarezd2&include_all_commits=true&count_private=true&show_icons=true&theme=dark" 
         alt="Mi GitHub Stats" 
         width="450"
       >
     </td>
     <td >
 <a href="https://github.com/Yadieltavarezd2">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yadieltavarezd2&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yadieltavarezd2&layout=compact&langs_count=8&theme=dark&card_width=320" />
 </a>
     </td>
   </tr>
