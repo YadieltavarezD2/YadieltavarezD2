@@ -16,7 +16,7 @@
       <img 
         src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yadieltavarezd2&include_all_commits=true&count_private=true&show_icons=true" 
         alt="Mi GitHub Stats" 
-        width="500"
+        width="450"
       >
     </td>
     <td >
@@ -28,7 +28,7 @@
       <img 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVoZTlxbmY1bDNseDU3ZzJubmRybGx6Nno3am12OTRvbDExeTV4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ytBoIyQ7ArpRirP0oh/giphy.gif" 
         alt="GIF animado" 
-        width="190"
+        width="170"
       >
     </td>
   </tr>
