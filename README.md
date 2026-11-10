@@ -8,22 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=16&duration=4000&pause=1000&color=00A5F7&width=435&lines=Hi%2C+I'm+Yadiel+%2Ca+software+engineer+student;From+Dominican+Republic;And+I+want+to+make+a+difference+in+the+world)](https://git.io/typing-svg)
 
-![Mi actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Yadieltavarezd2&theme=github-dark)
 
-<table align="center">
-  <tr>
-<td>
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yadieltavarezd2&include_all_commits=true&count_private=true&show_icons=true&theme=dark" 
-        alt="Mi GitHub Stats" 
-        width="450"
-      >
-    </td>
-    <td >
-<a href="https://github.com/Yadieltavarezd2">
-  
- ![TopLangs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mrrobotcode&layout=compact&theme=dark&token=)
-  
 </a>
     </td>
   </tr>
